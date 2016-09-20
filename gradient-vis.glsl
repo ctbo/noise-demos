@@ -1,6 +1,7 @@
 // Author: Harald Bögeholz, c't magazine, bo@ct.de
 // Title: gradient visualization for simplex noise algorithm
 // published in c't 21/16, p. 186
+// see accompanying LICENSE file for license information
 
 #ifdef GL_ES
 precision mediump float;
