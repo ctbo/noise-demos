@@ -1,6 +1,6 @@
 // Author: Harald Bögeholz, c't magazine, bo@ct.de
 // Title: Educational example code for noise algorithms
-// published in c't 21/16, p. 186
+// published in c't 21/16, p. 184
 // see accompanying LICENSE file for license information
 
 #ifdef GL_ES
